@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Overview
 
 ## Algorithms for The Little Schemer and The Seasoned Schemer
@@ -49,3 +50,7 @@ seasoned-schemer.core=> (rt)  ;; I've added this to run all the tests, reloading
 
 Author         :  Michael Peterson  
 Last updated   :  Dec 2011
+=======
+# little-schemer
+Implementation of code in Little Schemer in Scala and Clojure
+>>>>>>> 96aee010fa954211f1fd008d49530e90200d953a
